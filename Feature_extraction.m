@@ -1,4 +1,4 @@
-function [ feature_vector ] = ozellik_cikarma( BW )
+function [ feature_vector ] = Feature_extraction( BW )
 
 % gürültü giderme için filtre uygulanıyor
 ortalama_filtre = fspecial('average');
