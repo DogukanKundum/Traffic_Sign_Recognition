@@ -1,6 +1,6 @@
-# Traffic_Sing_Recognation
+# Traffic_Sing_Recognition
 
-By Dogukan KUNDUM
+#By Dogukan KUNDUM
 
 Özetçe —Bu çalı¸smada sürücü kaynaklı dikkat hatalarını
 önlemek için onlara trafik levhalarını hatırlatmak veya insansız
