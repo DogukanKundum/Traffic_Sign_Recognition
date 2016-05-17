@@ -44,7 +44,7 @@ function [ ozellik_vektor ] = displayTrafficSign( bin_img, original )
  
  figure,imshow(bw);
  
- ozellik_vektor = ozellik_cikarma(bw);
+ ozellik_vektor = feature_extraction(bw);
  
  hold off
  
