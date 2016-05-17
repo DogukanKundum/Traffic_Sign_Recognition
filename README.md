@@ -1,4 +1,4 @@
-# Traffic_Sing_Recognition
+# Traffic_Sign_Recognition
 
 #By Dogukan KUNDUM
 
